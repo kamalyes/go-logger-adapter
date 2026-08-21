@@ -3,8 +3,8 @@ module github.com/kamalyes/go-logger-adapter
 go 1.25.0
 
 require (
-	github.com/kamalyes/go-logger v0.5.9
-	github.com/kamalyes/go-toolbox v0.16.0
+	github.com/kamalyes/go-logger v0.6.0
+	github.com/kamalyes/go-toolbox v0.16.1
 )
 
 require (
